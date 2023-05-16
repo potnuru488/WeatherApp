@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="search_here">Search here...</string>
+    <string name="time">Time</string>
+    <string name="min_temp">Min Temp</string>
+    <string name="max_temp">Max Temp</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="weather">Weather</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="degree_farenheet">°F</string>
+    <string name="ground">Ground</string>
+    <string name="sea">Sea</string>
+    <string name="country">Country</string>
+    <string name="runtime_permissions_txt">Please enable permissions from app settings.</string>
+    <string name="dialog_ok">OK</string>
+    <string name="background_location_permission_title">Permission required</string>
+    <string name="background_location_permission_message">Some permissions are needed to be allowed to use this app without any problems.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="dialog_message">Message</string>
+</resources>
